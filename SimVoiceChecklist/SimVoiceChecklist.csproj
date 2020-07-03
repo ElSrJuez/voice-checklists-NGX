@@ -87,7 +87,7 @@
     </Reference>
     <Reference Include="Gma.UserActivityMonitor, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\Users\Paul\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\3rd Party\Gma.UserActivityMonitor.dll</HintPath>
+      <HintPath>.\Gma.UserActivityMonitor.dll</HintPath>
     </Reference>
     <Reference Include="NAudio">
       <HintPath>.\NAudio.dll</HintPath>
@@ -239,6 +239,9 @@
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

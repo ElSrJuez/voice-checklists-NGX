@@ -13,4 +13,7 @@
   <PropertyGroup>
     <EnableSecurityDebugging>false</EnableSecurityDebugging>
   </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>C:\Users\elsrj\source\repos\ElSrJuez\voice-checklists-NGX\</ReferencePath>
+  </PropertyGroup>
 </Project>
